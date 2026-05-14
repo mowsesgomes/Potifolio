@@ -1,0 +1,13 @@
+node_modules/
+dist/
+qa-screenshots/
+.env
+.env.local
+.env.*.local
+.netlify/
+.vercel/
+vite-dev.log
+vite-dev.err.log
+*.log
+*.zip
+*.tsbuildinfo
