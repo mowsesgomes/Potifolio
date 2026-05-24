@@ -1,7 +1,6 @@
 // Conteúdo editável do portfólio.
 // Para alterar textos, links, marcas ou imagens, edite somente este arquivo.
 // Coloque novas imagens em public/assets/projects/<nome-do-projeto>/ e adicione o caminho no array images.
-// Não invente números, clientes, prêmios ou depoimentos: mantenha dados reais ou deixe a seção desativada.
 
 export type Project = {
   title: string;
@@ -77,7 +76,7 @@ export const portfolio = {
     eyebrow: "Design gráfico, web design e mídia online",
     title: "Sites, landing pages e peças visuais com clareza, ritmo e acabamento.",
     intro:
-      "Sou Moises Gomes. Crio websites, banners, hot sites, landing pages, interfaces visuais e materiais impressos para marcas que precisam comunicar melhor.",
+      "Sou Moises Gomes. Crio websites, banners, hot sites, landing pages, interfaces visuais e materiais impressos desde um flyer a uma estrutura complexa para ponto de venda.",
   },
   about: {
     title: "Sou Moises do Carmo Gomes",
