@@ -47,8 +47,8 @@ function whatsappUrl(portfolio: PortfolioContent) {
   return `https://wa.me/${portfolio.person.whatsappDigits}?text=${encodeURIComponent(message)}`;
 }
 
-const firstContactEmail = "danilodcp18@gmail.com";
-const creatorEmail = "danilodcp18@gmail.com";
+const firstContactEmail = "mssmoises0102@gmail.com";
+const creatorEmail = "mssmoises0102@gmail.com";
 const creatorWhatsappUrl = "https://wa.me/5513996545233";
 
 type LightboxState = {
